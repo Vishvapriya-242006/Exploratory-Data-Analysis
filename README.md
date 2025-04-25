@@ -53,6 +53,6 @@ This project performs a basic Exploratory Data Analysis (EDA) on a dataset to un
 
 ###  Created by Vishvapriya
   ```bash
-   https://github.com/Vishvapriya-242006/Exploratory-Data-Analysis/new/main
+   https://github.com/Vishvapriya-242006/Exploratory-Data-Analysis/tree/main
     
 
